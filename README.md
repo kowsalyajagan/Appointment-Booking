@@ -15,3 +15,4 @@ This is my MERN Stack Hospital Appointment Booking web application with JWT auth
 "Installation"
 *npm install
 *npm run dev
+
